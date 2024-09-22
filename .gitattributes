@@ -1,0 +1,2 @@
+jdk-17.deb filter=lfs diff=lfs merge=lfs -text
+jdk-17_bin.tar.gz filter=lfs diff=lfs merge=lfs -text
